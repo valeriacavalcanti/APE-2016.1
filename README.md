@@ -6,6 +6,8 @@
 
 ## C
 
-\# | Data | Projeto
---- | --- | ---
-01 | 18/05/2016 | Primeiros passos na linguagem
+\# | Projeto
+--- | ---
+01 | Primeiros passos na linguagem
+02 | Sequência
+03 | Sequência, decisão e conversão de tipos
