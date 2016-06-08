@@ -11,3 +11,4 @@
 01 | Primeiros passos na linguagem
 02 | Sequência
 03 | Sequência, decisão e conversão de tipos
+04 | Repetição com for
