@@ -14,3 +14,4 @@
 04 | Repetição com for
 05 | Repetição com while e do while
 06 | Repetição
+07 | Repetição (exercícios URI)
