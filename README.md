@@ -15,3 +15,4 @@
 05 | Repetição com while e do while
 06 | Repetição
 07 | Repetição (exercícios URI)
+08 | Vetor (Unidimensional)
