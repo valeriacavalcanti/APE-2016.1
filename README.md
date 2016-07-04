@@ -16,3 +16,4 @@
 06 | Repetição
 07 | Repetição (exercícios URI)
 08 | Vetor (Unidimensional)
+09 | Vetor (Unidimensional)
