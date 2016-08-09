@@ -23,3 +23,5 @@
 13 | Vetor, Matriz e String
 14 | Struct
 15 | PokemonGo!
+17 | Funções
+
