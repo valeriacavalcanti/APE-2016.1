@@ -24,3 +24,4 @@
 14 | Struct
 15 | PokemonGo!
 16 | Funções
+14 | Funções e Apontadores
